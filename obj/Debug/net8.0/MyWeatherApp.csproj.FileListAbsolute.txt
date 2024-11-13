@@ -1,0 +1,4 @@
+D:\Tai lieu\Lập trình mạng\DoAnLTM\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai lieu\Lập trình mạng\DoAnLTM\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.AssemblyInfoInputs.cache
+D:\Tai lieu\Lập trình mạng\DoAnLTM\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.AssemblyInfo.cs
+D:\Tai lieu\Lập trình mạng\DoAnLTM\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.csproj.CoreCompileInputs.cache
